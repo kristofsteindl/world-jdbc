@@ -1,2 +1,2 @@
 # world-jdbc
-Java cnsole app for practicing jdbc with mysql. 
+Java console app for practicing jdbc with mysql. 
